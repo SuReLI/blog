@@ -22,6 +22,7 @@ explicit diversity criterion and leads to more policies which find reward.
 * An algorithm that creates diversity without the need for an explicit diversity criterion.
 * Curiosity-ES outperforms other exploration algorithms in sparse-reward scenarios.
 * Empirical demonstration that, for some environments, combining the Curiosity exploration bonus with Evolutionary Strategies (ES) maintains a better balance in the inherent two-player game of exploration methods using uncertainty bonuses.
+  
 ### Publication Details
 * **Title**: Curiosity Creates Diversity in Policy Search
 * **Journal**: Transactions on Evolutionary Learning and Optimization
