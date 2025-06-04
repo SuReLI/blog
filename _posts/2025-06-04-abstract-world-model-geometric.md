@@ -1,7 +1,7 @@
 ## Learning Abstract World Models with a Group-Structured Latent Space
 
 We are pleased to announce the publication of the research paper titled "Learning Abstract World Models with a Group-Structured Latent Space" on arXiv.
-This work was co-authored by Thomas Delliaux*, Nguyen-Khanh Vu* (ETH Zürich), Vincent François-Lavet (VU Amsterdam), Elise van der Pol (Microsoft Research AI for Science, Amsterdam), Emmanuel Rahchelson. (*Equal contribution) 
+This work was co-authored by Thomas Delliaux\*, Nguyen-Khanh Vu\* (ETH Zürich), Vincent François-Lavet (VU Amsterdam), Elise van der Pol (Microsoft Research AI for Science, Amsterdam), Emmanuel Rahchelson. (*Equal contribution) 
 
 TL;DR: We train an abstract world model in which part of the abstract space has an explicit group structure, to reflect the rotational symmetry present in the environment. The model's generalization capacity is then evaluated using both qualitative and quantitative metrics.
 
